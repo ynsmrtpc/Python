@@ -1,0 +1,22 @@
+{% extends 'layout.html' %} {% block body %}
+<style>
+    .form-control {
+        width: 250px !important;
+    }
+    
+    h3 {
+        color: #FFC107;
+    }
+</style>
+
+<h3 align="center">GİRİŞ YAP</h3>
+<hr>
+<div align="center" class="container">
+    <form class="container" method="post">
+        {% csrf_token %} {{form.as_p}}
+
+        <button style="color: #fafafa;" type="submit" class="btn btn-warning">Kayıt Ol</button>
+    </form>
+</div>
+
+<hr> {% endblock %}

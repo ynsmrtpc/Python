@@ -1,0 +1,2 @@
+Araştırma
+Python'da decoratorların nerelerde ve nasıl kullanıldığını araştırın.

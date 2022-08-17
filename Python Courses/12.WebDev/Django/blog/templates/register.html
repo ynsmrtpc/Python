@@ -1,0 +1,29 @@
+{% extends 'layout.html' %} {% block body %}
+<style>
+    h3 {
+        color: #FFC107;
+    }
+    
+    i {
+        margin-right: 10px;
+    }
+</style>
+
+<h3 align="center">KAYIT OL</h3>
+<hr>
+<div align="center" class="container">
+    {% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+        <li{% if message.tags %} class="{{ message.tags }}" {% endif %}>{{ message }}</li>
+            {% endfor %}
+    </ul>
+    {% endif %}
+    <form class="container" method="post">
+        {% csrf_token %} {{form.as_p}}
+
+        <button style="color: #fafafa;" type="submit" class="btn btn-warning">Kayıt Ol</button>
+    </form>
+</div>
+
+{% endblock %}

@@ -1,0 +1,18 @@
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Altay Bayındır,Fenerbahçe
+İsmail Çipe,Galatasaray
+Taylan Antalyalı,Galatasaray
+Nicolas Isimat-Mirin,Beşiktaş
+Victor Enok Nelsson,Galatasaray
+Attila Szalai,Fenerbahçe
+Marcos do Nascimento Teixeira,Galatasaray
+Rıdvan Yılmaz,Beşiktaş
+Kim Min-Jae,Fenerbahçe
+Bilal Ceylan,Beşiktaş
+Fernando Muslera,Galatasaray
+Valentin André Henri Rosier,Beşiktaş
+Alpaslan Öztürk,Galatasaray
+Utku Yuvakuran,Beşiktaş
+Serdar Aziz,Fenerbahçe
+Mesut Özil,Fenerbahçe

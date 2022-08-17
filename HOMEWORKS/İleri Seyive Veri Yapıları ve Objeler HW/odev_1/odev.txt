@@ -1,0 +1,6 @@
+Elinizde uzunca bir string olsun.
+
+            "ProgramlamaÖdeviİleriSeviyeVeriYapılarıveObjeleri"
+
+
+Bu string içindeki harflerin frekansını (bir harfin kaç defa geçtiği) bulmaya çalışın.
